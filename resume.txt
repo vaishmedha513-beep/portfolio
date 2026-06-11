@@ -1,0 +1,67 @@
+MEDHA VAISH
+Kanpur (UP)
+📞 +91 9112581979 | 📧 
+vaishmedha513@gmail.com
+ 
+OBJECTIVE
+ 
+Aspiring software developer skilled in C++ problem solving and MERN stack, aiming to develop impactful applications and solve real-world problems through efficient and scalable solutions.
+SKILLS
+Programming Languages: 
+Python, C++.
+Web Technologies:
+ HTML, CSS, JavaScript ,React,Node.js,MongoDB
+Soft Skills: 
+Good communication, Quick learner, Multi-tasking, Team Work and collaboratio
+n.
+PROJECTS
+🔹 CineMA
+atchA
+I – Movie Recommendation System
+ :-
+Developed a content-based movie recommendation system using Python.
+ Used TF-IDF vectorization and cosine similarity to find movies similar in genre, cast, and storyline.
+Cleaned and processed movie metadata to improve recommendation accuracy
+Built an interactive web interface using Flask for taking user input and showing results.
+Deployed the application on Heroku, making it accessible online.
+Utilized tools like Pandas, NumPy, Scikit-learn, Git, and GitHub during development.
+🔹
+ 
+She AI – Intelligent Women Health Assistant
+:-
+Developed a smart mobile application focused on women’s health using AI and data-driven insights. Implemented features like menstrual cycle & mood tracking, PCOS and menopause detection, and breast cancer awareness. Integrated an AI-powered chatbot for personalized health guidance and support. Designed multilingual functionality to improve accessibility for diverse users. Utilized technologies such as React Native/Flutter, Node.js/Firebase, and basic ML concepts for predictive analysis.
+ 
+🔹
+ 
+🔹 CalmIQ – AI-Powered Mental Wellness Assistant
+
+• Developed an AI-powered platform for mood tracking and emotional wellness monitoring.
+• Integrated an intelligent chatbot to provide personalized stress management and mental health support.
+• Built the application using React, Node.js, MongoDB, and Python for a scalable and user-friendly experience.
+                                                                                                      
+EDUCATION
+Bachelor of Computer Science and Engineering
+Pranveer 
+ 
+Singh
+ 
+ Institute
+ 
+ of
+ 
+ Technology , Kanpur  | 2023-27                                                                                                       
+Senior Secondary School, CBSE
+Sacred Heart Higher Secondary School | 2023                                                                                                                 
+Higher Secondary School, CBSE
+Sacred Heart Higher Secondary School | 2021                
+                                                                                                      
+LANGUAGES
+ 
+English                       Hindi (Native)
+CERTIFICATION
+Complete HTML, CSS, JavaScript (Course Era)                                        
+Basic Python by Udemy
+Devops by Oracle University
+INTERESTS
+Web Development
+| Problem Solving| Public Speaking| Traveling.
